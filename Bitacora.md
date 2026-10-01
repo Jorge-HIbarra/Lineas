@@ -1,0 +1,1 @@
+La implementación del código salió bien, edité la función para generar las líneas para que en lugar de dibujarla en sí solo editara el arreglo de pixeles con el que se dibuja la cuadrícula. Con clic izquierdo marcas el punto de inicio y con clic derecho el punto del final, con barra espaciadora borras la pantalla.
